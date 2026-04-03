@@ -25,11 +25,8 @@ Hi 👋, I’m qazimoizz<br><br>A focused and disciplined learner in the field o
 [![](https://visitcount.itsvg.in/api?id=qazimoizz&icon=3&color=13)](https://visitcount.itsvg.in)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
