@@ -1,3 +1,23 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
+
+
+
 # 💫 About Me:
 Hi 👋, I’m qazimoizz<br><br>A focused and disciplined learner in the field of programming 💻. I dedicate my time to building a strong foundation, writing clean code, and continuously improving through practice and real-world projects 🚀.<br><br>I value consistency, problem-solving, and long-term growth 📚. This profile reflects my journey of learning, building, and refining my skills over time.
 
@@ -25,7 +45,7 @@ Hi 👋, I’m qazimoizz<br><br>A focused and disciplined learner in the field o
 [![](https://visitcount.itsvg.in/api?id=qazimoizz&icon=3&color=13)](https://visitcount.itsvg.in)
 
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 
 
