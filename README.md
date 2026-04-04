@@ -45,7 +45,13 @@ Hi 👋, I’m qazimoizz<br><br>A focused and disciplined learner in the field o
 [![](https://visitcount.itsvg.in/api?id=qazimoizz&icon=3&color=13)](https://visitcount.itsvg.in)
 
 
+## 🟡 Pacman Contribution Graph
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
